@@ -28,7 +28,7 @@ class MyListener(StreamListener):
                 print(twitter_text)
                 print()
                 self.num_tweets += 1
-                if self.num_tweets < 10000:
+                if self.num_tweets < 10:
                     return True
                 else:
                     return False
