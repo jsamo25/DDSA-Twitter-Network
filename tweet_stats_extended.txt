@@ -1,0 +1,18 @@
+tweet Information: Directed
+  Nodes:                    12777
+  Edges:                    10730
+  Zero Deg Nodes:           0
+  Zero InDeg Nodes:         7234
+  Zero OutDeg Nodes:        5302
+  NonZero In-Out Deg Nodes: 241
+  Unique directed edges:    10730
+  Unique undirected edges:  10707
+  Self Edges:               139
+  BiDir Edges:              185
+  Closed triangles:         142
+  Open triangles:           116015
+  Frac. of closed triads:   0.001222
+  Connected component size: 0.105737
+  Strong conn. comp. size:  0.000157
+  Approx. full diameter:    28
+  90% effective diameter:  17.974070
